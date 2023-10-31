@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-bookmyshow-clone-website/static/css/main.d90ec3a8.css",
+    "main.js": "/react-bookmyshow-clone-website/static/js/main.06e0b0fa.js",
+    "static/js/787.833be13e.chunk.js": "/react-bookmyshow-clone-website/static/js/787.833be13e.chunk.js",
+    "static/media/newcar2.png": "/react-bookmyshow-clone-website/static/media/newcar2.daaed5d450fdde5fafbb.png",
+    "static/media/newscooter.png": "/react-bookmyshow-clone-website/static/media/newscooter.be5e12b0ae8df3a4b322.png",
+    "static/media/cycle.png": "/react-bookmyshow-clone-website/static/media/cycle.2ddc5c511278ac63e859.png",
+    "static/media/newauto.png": "/react-bookmyshow-clone-website/static/media/newauto.5b386c1c664753a0ceda.png",
+    "static/media/newcar.png": "/react-bookmyshow-clone-website/static/media/newcar.77906818b997888137bb.png",
+    "static/media/slick.svg": "/react-bookmyshow-clone-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-bookmyshow-clone-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-bookmyshow-clone-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-bookmyshow-clone-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-bookmyshow-clone-website/index.html",
+    "main.d90ec3a8.css.map": "/react-bookmyshow-clone-website/static/css/main.d90ec3a8.css.map",
+    "main.06e0b0fa.js.map": "/react-bookmyshow-clone-website/static/js/main.06e0b0fa.js.map",
+    "787.833be13e.chunk.js.map": "/react-bookmyshow-clone-website/static/js/787.833be13e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90ec3a8.css",
+    "static/js/main.06e0b0fa.js"
+  ]
+}
