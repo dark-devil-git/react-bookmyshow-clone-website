@@ -112,7 +112,7 @@ export const CarouselRecommended=()=>{
                                     <Typography 
                                         component="img" 
                                         src={val.mimg}
-                                        sx={{width:"100%",borderRadius:"12px"}}
+                                        sx={{width:"100%",borderRadius:"12px",height:{xs:"265px",sm:"300px",lg:"330px"}}}
                                         > 
                                     </Typography> 
                                     <Box>
