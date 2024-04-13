@@ -8,7 +8,7 @@ import { Checkout } from "../Checkout/Checkout"
 export const Router=()=>{
 
     return(
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter >
             <Routes>
                 <Route path="/" exact element={<Home/>}></Route>
                 <Route path="/details" element={<Details/>}></Route>
